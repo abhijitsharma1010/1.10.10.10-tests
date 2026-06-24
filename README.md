@@ -8,7 +8,7 @@ Public DNS resolvers are often marketed on speed and reliability, but real-world
 
 ## Measurement setup
 
-All measurements are gathered using [RIPE Atlas](https://atlas.ripe.net/) probes deployed across multiple locations in India. RIPE Atlas is a global, community-driven Internet measurement network — using it here means the results reflect real network paths and conditions from distributed vantage points, not just a single host or VM.
+All measurements are gathered using [RIPE Atlas](https://atlas.ripe.net/) probes deployed across multiple locations in India. RIPE Atlas is a global, community-driven Internet measurement network using it here means the results reflect real network paths and conditions from distributed vantage points, not just a single host or VM.
 
 ## What's being measured
 
