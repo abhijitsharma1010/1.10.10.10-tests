@@ -32,8 +32,8 @@ Two kinds of tests are tracked:
 │   ├── data/                      # Daily raw DNS query counts, one folder per date
 │   │   └── DD-MM-YYYY/
 │   │       └── dns_measurement_count_DD-MM-YYYY
-│   └── html/                      # Daily DNS bar-graph visualizations
-│       └── dns_measurement_India_bargraph_YYYY-MM-DD.html
+│   └── html/                      
+│       └── dns_measurement_India_bargraph_YYYY-MM-DD.html           # Daily DNS bar-graph visualizations
 │
 └── ping/
     ├── data/                      # Daily raw ping counts, one folder per date
