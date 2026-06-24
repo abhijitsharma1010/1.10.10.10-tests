@@ -21,8 +21,8 @@ All measurements are gathered using [RIPE Atlas](https://atlas.ripe.net/) probes
 
 Two kinds of tests are tracked:
 
-- **DNS** (`/dns`) — DNS query log counts per resolver, captured daily.
-- **Ping** (`/ping`) — ICMP ping measurement counts per resolver, captured daily.
+- **DNS** (`/dns`)  DNS query log counts per resolver, captured daily.
+- **Ping** (`/ping`)  ICMP ping measurement counts per resolver, captured daily.
 
 ## Repo structure
 
@@ -56,7 +56,7 @@ Each daily data file is a simple resolver → count text file, e.g.:
 
 ### HTML graphs
 
-Each `.html` file under `dns/html/` and `ping/html/` is a self-contained, dynamically-scaled bar graph for that day — open it directly in a browser, no server or dependencies required. Bar heights are scaled relative to that day's maximum value, so graphs are easiest to read day-by-day rather than across days.
+Each `.html` file under `dns/html/` and `ping/html/` is a self-contained, dynamically-scaled bar graph for that day open it directly in a browser, no server or dependencies required. Bar heights are scaled relative to that day's maximum value, so graphs are easiest to read day-by-day rather than across days.
 
 ## How the data is collected
 
