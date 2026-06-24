@@ -14,7 +14,7 @@ All measurements are gathered using [RIPE Atlas](https://atlas.ripe.net/) probes
 
 | Resolver     | Provider        |
 |--------------|------------------|
-| `1.10.10.10` | NIC / DoT (India) |
+| `1.10.10.10` | NIC (India) |
 | `1.1.1.1`    | Cloudflare       |
 | `8.8.8.8`    | Google           |
 | `9.9.9.9`    | Quad9            |
