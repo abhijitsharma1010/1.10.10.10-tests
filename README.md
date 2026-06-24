@@ -39,8 +39,8 @@ Two kinds of tests are tracked:
     ├── data/                      # Daily raw ping counts, one folder per date
     │   └── DD-MM-YYYY/
     │       └── ping_measurement_India_data_count_DD-MM-YYYY
-    └── html/                      # Daily ping bar-graph visualizations
-        └── ping_measurement_India_graph_DD-MM-YYYY.html
+    └── html/                      
+        └── ping_measurement_India_graph_DD-MM-YYYY.html             # Daily ping bar-graph visualizations
 ```
 
 ### Data format
